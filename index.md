@@ -5,7 +5,7 @@
 **Status:** Resolved  
 
 ## 1. Executive Summary
-An issue arose where a [Insert Laptop Model, e.g., ASUS ZenBook] laptop configured for a single-display external monitor setup (clamshell mode) would unexpectedly drop into an un-wakeable sleep/hibernation state exactly three to five minutes after the laptop lid was closed. The issue began immediately following a background system update and a manual hardware configuration change that limited the battery charge threshold to protect cell longevity. 
+An issue arose where a [ASUS VIVOBook] laptop configured for a single-display external monitor setup (clamshell mode) would unexpectedly drop into an un-wakeable sleep/hibernation state exactly three to five minutes after the laptop lid was closed. The issue began immediately following a background system update and a manual hardware configuration change that limited the battery charge threshold to protect cell longevity. 
 
 ## 2. Environment & System Specifications
 * **Host Hardware:** [Asus VIVObook]
