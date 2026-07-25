@@ -23,7 +23,7 @@ Configure a secure, centralized local network shared folder accessible by both w
    * Enabled file and printer sharing via the Windows Control Panel.
    * Configured the target folder properties to grant specific network share permissions.
 
-4. **Client Mapping:** Accessed the host directory from the secondary PC using the local path network shortcut (e.g., `\\ReidMachine\SharedFolder`).
+4. **Client Mapping:** Accessed the host directory from the secondary PC using the local path network shortcut (`\\ReidMachine\SharedFolder`).
 
 ## 💡 Troubleshooting & Lessons Learned
 * **Network Discovery:** Initially, the machines could not see each other because the network profile defaulted to 'Public'. Changing this to 'Private' instantly allowed the handshake.
