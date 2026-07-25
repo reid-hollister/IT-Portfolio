@@ -55,3 +55,5 @@ The root cause was a multi-layered configuration conflict between Windows **Mode
 
 
 *   [Windows Local Network File Share (SMB) Configuration](./smb-share.md) — *Streamlining IT study workflows across multiple workstations.*
+
+[Infrastructure Migration & Support Desk Project](./osticket-migration.md)
