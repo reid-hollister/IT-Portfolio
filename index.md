@@ -1,3 +1,8 @@
+---
+layout: default
+title: My IT Portfolio & Homelab Logs
+---
+
 # HelpDesk & IT Engineering Portfolio
 Welcome to my documentation space. This is a living record of the homelab projects I build and the everyday issues I troubleshoot to keep my home network running smoothly.
 
