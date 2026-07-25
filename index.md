@@ -38,3 +38,16 @@ The root cause was a multi-layered configuration conflict between Windows **Mode
 ## 6. Key Takeaways & Lessons Learned
 * **The Restart Fallacy:** In modern operating systems, a standard restart or shutdown does not flush system memory if "Fast Startup" is enabled. Hard power profile bugs require a complete cache purge.
 * **OEM Overrides:** Third-party hardware management apps (like MyASUS, Dell Power Manager, or Lenovo Vantage) frequently intercept core ACPI power states, changing how Windows calculates power distribution.
+
+
+
+---
+layout: default
+title: My IT Portfolio & Homelab Logs
+---
+
+# HelpDesk & IT Engineering Portfolio
+Welcome to my documentation space. This is a living record of the homelab projects I build and the everyday issues I troubleshoot to keep my home network running smoothly.
+
+## 🛠️ Knowledge Base & Project Logs
+*   [Windows Local Network File Share (SMB) Configuration](./smb-share.md) — *Streamlining IT study workflows across multiple workstations.*
