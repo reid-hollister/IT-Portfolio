@@ -1,7 +1,4 @@
----
-layout: default
-title: SMB File Share Project
----
+
 # Knowledge Base Article: Cross-Workstation SMB File Share Configuration
 
 ## ⚡ Business Case / Problem Statement
