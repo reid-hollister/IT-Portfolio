@@ -1,3 +1,8 @@
+# HelpDesk & IT Engineering Portfolio
+Welcome to my documentation space. This is a living record of the homelab projects I build and the everyday issues I troubleshoot to keep my home network running smoothly.
+
+## 🛠️ Knowledge Base & Project Logs
+
 # IT Support Case Study: Resolving Modern Standby Clamshell Sleep Loops
 **Date:** July 24, 2026  
 **Author:** [Reid Hollister]  
@@ -43,8 +48,5 @@ The root cause was a multi-layered configuration conflict between Windows **Mode
 
 
 
-# HelpDesk & IT Engineering Portfolio
-Welcome to my documentation space. This is a living record of the homelab projects I build and the everyday issues I troubleshoot to keep my home network running smoothly.
 
-## 🛠️ Knowledge Base & Project Logs
 *   [Windows Local Network File Share (SMB) Configuration](./smb-share.md) — *Streamlining IT study workflows across multiple workstations.*
