@@ -2,6 +2,7 @@
 layout: default
 title: Music Technology Lab
 ---
+
 # System Deployment Report: Hybrid Audio Production Environment
 
 ## 1. Project Overview
