@@ -20,3 +20,5 @@ Welcome to my documentation space. This is a living record of the homelab projec
   [Infrastructure Migration & Support Desk Project](./osticket-migration.md)
 
   [Resolving Modern Standby Clamshell Sleep Loops](/stanby-clamshell-sleep.md)
+
+  [Using Networked Workstations to Facilitate Hybrid Digital/Analog Recording Studio Projects](./hybrid-audio-production-env.md)
