@@ -28,3 +28,11 @@ Configure a secure, centralized local network shared folder accessible by both w
 
 ## ✅ Outcome
 Both workstations can now seamlessly drop quiz PDFs into a singular local directory. The file ingest time for NotebookLM was reduced from minutes to seconds, successfully decoupling the study environment from workstation physical location.
+
+  
+  [Infrastructure Migration & Support Desk Project](./osticket-migration.md)
+
+  [Resolving Modern Standby Clamshell Sleep Loops](/stanby-clamshell-sleep.md)
+
+  [Using Networked Workstations to Facilitate Hybrid Digital/Analog Recording Studio Projects](./hybrid-audio-production-env.md)
+

@@ -49,3 +49,10 @@ During high-load testing of the nested environment, I documented the following i
 *   **Web Server Administration:** Expert management of Apache and PHP environments [10].
 *   **Database Management:** Handling MariaDB/MySQL integrity via Command Line Interface (CLI) [10].
 *   **Technical Documentation:** Translating complex troubleshooting into actionable step-by-step guides [10].
+
+[Windows Local Network File Share (SMB) Configuration](./smb-share.md) — *Streamlining IT study workflows across multiple workstations.*
+  
+   [Resolving Modern Standby Clamshell Sleep Loops](/stanby-clamshell-sleep.md)
+
+  [Using Networked Workstations to Facilitate Hybrid Digital/Analog Recording Studio Projects](./hybrid-audio-production-env.md)
+
