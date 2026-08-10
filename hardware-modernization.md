@@ -57,4 +57,3 @@ The system is mapped for low-cost modular scaling, including a path to **8GB DDR
 
 ### 🔗 Navigation
 [Back to Technical Labs](./index.md) | [osTicket Migration](./osticket-migration.md) | [Active Directory Project (In-Progress)](#)
-Step 2: Tactical Refinement & Blind Spots
