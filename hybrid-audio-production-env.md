@@ -64,12 +64,10 @@ The system utilizes Studio One 6's unified binary architecture. The **Artist** l
 *   **Context-Sensitive Help:** Integrated **F1** interrogation targeting the software component currently in focus.
 *   **Visual Aid:** **Info View** pane providing operational definitions and modifier key references.
 *   **Offline Access:** Manual extraction of raw HTML documentation for use on security-hardened or isolated production rigs.
-```
+---
 
-[Windows Local Network File Share (SMB) Configuration](./smb-share.md) — *Streamlining IT study workflows across multiple workstations.*
-  
-  [Infrastructure Migration & Support Desk Project](./osticket-migration.md)
 
-  [Resolving Modern Standby Clamshell Sleep Loops](/stanby-clamshell-sleep.md)
+### 🔗 Navigation
+[Back to Technical Labs](./index.md) |    
 
   
